@@ -1,0 +1,36 @@
+.request-section {
+  background-color: #F4F4F4;
+}
+
+.request-title {
+  text-transform: capitalize;
+  font-family: 'Open Sans' sans-serif;
+}
+
+.button-request { 
+  background-color: #28A745;
+  color: #ffffff;
+  border-radius: 5px;
+  border-style: none;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #333333;
+} 
+
+.footer a {
+  color: #ffffff;
+}
+
+.footer-list a {
+  text-decoration: none;
+}
+
+.footer-list {
+  list-style: none;
+}
+
+.footer-title {
+  color: #ffffff;
+}
